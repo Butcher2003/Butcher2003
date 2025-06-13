@@ -9,7 +9,7 @@
 />
 
 - 🌱 I’m currently learning **Machine Learning and Full Stack Web Development**  
-- 📫 Reach me at: **aryan.email@example.com** | **aryan_be22@thapar.edu**
+
 
 ---
 
